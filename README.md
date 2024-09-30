@@ -1,3 +1,3 @@
-# NLP Couse, HuggingFace
+# NLP Course, HuggingFace
 
 https://huggingface.co/learn/nlp-course/
